@@ -11,8 +11,6 @@ A machine learning–based system that recommends the most suitable crop for cul
 - [Models Used](#models-used)
 - [Results](#results)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 
 ---
 
